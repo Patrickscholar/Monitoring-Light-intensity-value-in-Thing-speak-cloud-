@@ -1,6 +1,6 @@
 ### NAME: V PATRICK ALEX EMMMANUEL
 ### REG NO: 24900019
-# EXPERIMENT 4 - Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# EXPERIMENT 4 - Monitoring Lightintensity value in Thingspeak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
